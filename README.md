@@ -7,7 +7,9 @@ Uses Gulp to do compile SASS, minify CSS/JS, copy fonts and compress images.
 ### Dev
 Clone the repo and delete the git log
 
-```rm -rf .git```
+```
+rm -rf .git
+```
 Make sure you have `gulp` installed on your computer and run `gulp`. It will open the browser window and keep watching for changes. 
 
 ### Build 
